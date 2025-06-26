@@ -15,8 +15,6 @@ app.MapControllerRoute(
 
     );
 
-app.MapGet("/", () => "Hello World!");
-
 app.Run();
 
 // -------------------------- Kavram Açýklamalarý --------------------------
